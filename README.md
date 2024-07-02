@@ -15,3 +15,8 @@ The scrapped data in the looks as this in the terminal
 
 ![image](https://github.com/VimalChamyal/Best-bowlers-of-the-T20-WC-2024/assets/101229988/cf0f0036-e066-4fb4-9f79-a0f32a65b11e)
 
+The saved data in excel looks like:
+
+![image](https://github.com/VimalChamyal/Best-bowlers-of-the-T20-WC-2024/assets/101229988/34be8756-24a8-4b6a-82fc-a0a0f787a7ce)
+
+
