@@ -9,3 +9,8 @@ Installed 3 modules
 1. Requests - To access the website
 2. Beautiful Soup - To parse the HTML of the website and using it's methods we will be accessing the required HTML tags
 3. openpyxl - To load the data into an excel file.
+
+## Result
+The scrapped data in the looks as this in the terminal
+![image](https://github.com/VimalChamyal/Best-bowlers-of-the-T20-WC-2024/assets/101229988/cf0f0036-e066-4fb4-9f79-a0f32a65b11e)
+
